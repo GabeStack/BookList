@@ -3,7 +3,7 @@
   # BookList - Listador de livros
 <div>
   
-  [![Stars](https://img.shields.io/github/stars/Cyacer/BookList)](https://github.com/Cyacer/BookList)
+  [![Stars](https://img.shields.io/github/stars/Cyacer/BookList)](https://github.com/Cyacer/BookLis)
   [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/) 
   
 </div>
