@@ -4,8 +4,6 @@
 <div>
   
 [![GitHub stars](https://img.shields.io/github/stars/Cyacer/BookList.svg?style=social&label=Stars)](https://github.com/Cyacer/BookList)
-[![Download](https://img.shields.io/badge/Download-Click%20Here-brightgreen.svg)](LINK_PARA_O_DOWNLOAD)
-[![Clone](https://img.shields.io/badge/Clone-Click%20Here-blue.svg)](LINK_PARA_CLONAR)
 [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/) 
   
 </div>
