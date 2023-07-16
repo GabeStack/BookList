@@ -12,8 +12,15 @@
   "scripts": {
     "start": "node ./src/server.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": ""
+  "keywords": [
+    "API",
+    "Express",
+    "Node.js",
+    "MySQL",
+    "livros",
+    "lista de livros"
+  ],
+  "author": "Gabriel Barreto",
+  "license": "MIT",
+  "description": " Api para listar livros"
 }
