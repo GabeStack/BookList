@@ -3,8 +3,10 @@
   # BookList - Listador de livros
 <div>
   
-  [![Stars](https://img.shields.io/github/stars/Cyacer/BookList)](https://github.com/Cyacer/BookList)
-  [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/) 
+[![GitHub stars](https://img.shields.io/github/stars/Cyacer/BookList.svg?style=social&label=Stars)](https://github.com/Cyacer/BookList)
+[![Download](https://img.shields.io/badge/Download-Click%20Here-brightgreen.svg)](LINK_PARA_O_DOWNLOAD)
+[![Clone](https://img.shields.io/badge/Clone-Click%20Here-blue.svg)](LINK_PARA_CLONAR)
+[![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/) 
   
 </div>
   ### Este projeto foi desenvolvido em <img align="center" src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white" /> junto do banco de dados <img align="center" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" /> para listar livros cujo você tem ou já tenha lido de forma simples.
