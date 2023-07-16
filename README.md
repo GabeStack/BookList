@@ -26,6 +26,30 @@
  | DELETE           |       `/livro/:id`    | Exclui todo livro com base no seu id.|
  
 </h3> 
+
 <h2 align="center">Configuração</h2>
+
+Nesta etapa primeiro iremos criar a Database  no banco <img align="center" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white"/> cujo será utilizado pela Api:
+
+<h3>
+  
+```
+
+CREATE DATABASE BookList;
+
+ USE BookList;
+
+ CREATE TABLE livros (
+
+    id INT AUTO_INCREMENT PRIMARY KEY,
+
+    titulo VARCHAR(100) NOT NULL,
+
+    autor VARCHAR(100),
+
+    ano_publicacao INT,);
+
+```
+</h3>
 
 </div>
