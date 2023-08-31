@@ -54,7 +54,7 @@ CREATE DATABASE BookList;
 
     autor VARCHAR(100),
 
-    ano_publicacao INT,);
+    ano_publicacao INT);
 
 ```
 Logo após a criação do Database, iremos configurar o arquivo .process.env, cujo carregar as variável relacionadas a conexão com a Database e porta que api rodará:
