@@ -7,7 +7,9 @@
 [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/) 
   
 </div>
+
   ### Este projeto foi desenvolvido em <img align="center" src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white" /> junto do banco de dados <img align="center" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" /> para listar livros cujo você tem ou já tenha lido de forma simples.
+  
  ### No momento não é capaz de armazenar imagens, mas futuramente será capaz, sendo assim espero que gostem e leia toda a documentação para saber o que deve configura antes de utilizar.
 </div>
 <div align="center" >
