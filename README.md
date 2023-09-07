@@ -30,8 +30,8 @@
  | -------------------- | --------------------  | ------------------------ |
  | GET              |        `/livro`       | Puxa todos os livros criado.|
  | GET              |       `/livro/:id`    | Puxa um livro expecifico com base no id.|
- | POST             |       `/livro`        | Lista os livros. |
- | PATCH            |       `/livro/:id`    | Alterar / Atualizar um ou mais dados especifico do livro.|
+ | POST             |       `/livro`        | Cadastra os livros. |
+ | PUT              |       `/livro/:id`    | Alterar / Atualizar um ou mais dados especifico do livro.|
  | DELETE           |       `/livro/:id`    | Exclui todo livro com base no seu id.|
  
 </h3> 
@@ -71,5 +71,22 @@ Logo após a criação do Database, iremos configurar o arquivo .process.env, cu
  | SERVERPORT | Aonde irá colocar a porta cujo Api iniciará|
  
 </h3>
-
+<div>
+  <h2>Exemplo das Rotas</h2>
+    <h3>Visualizar Todos</h3>
+    <h4>Método GET utilizado para puxa todos os livros criado.</h4>
+  <img src="./img/Visualizar_todos.gif">
+    <h3>Visualizar Específico</h3>
+  <h4>Método GET utilizado para puxa um livro específico a partir do ID.</h4>
+  <img src="./img/Visualizar_especifico.gif">
+  <h3>Adicionar</h3>
+  <h4>Método POST cadastra os livros.</h4>
+  <img src="./img/Adicionar.gif">
+    <h3>Atualizar</h3>
+  <h4>Método PUT  alterar / atualizar um ou mais dados especifico do livro.</h4>
+  <img src="./img/Atualizar.gif">
+    <h3>Deletar</h3>
+  <h4>Método DELETE utilizado para excluir um livro específico a partir do ID.</h4>
+  <img src="./img/Deletar.gif">
+</div>
 </div>
